@@ -129,3 +129,26 @@ color: orange;
     text-align: left;
     margin-left: 20px;
 }
+
+.community{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.community img{
+    height: 400px;
+    width: 400px;
+    
+    
+}
+
+.footer-content{
+    height: 100px;
+    background-color: black;
+
+}
+.footer-text{
+    color: white;
+    text-align: center;
+}
